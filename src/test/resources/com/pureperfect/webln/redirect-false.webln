@@ -1,0 +1,7 @@
+<webln>
+	<link>
+		<name>thesource</name>
+		<target>thetarget</target>
+		<redirect>false</redirect>
+	</link>
+</webln>

@@ -1,0 +1,12 @@
+<webln>
+	<link>
+		<name>link1</name>
+		<target>target1</target>
+	</link>
+
+	<link>
+		<name>link2</name>
+		<target>target2</target>
+		<redirect>true</redirect>
+	</link>
+</webln>

@@ -1,0 +1,12 @@
+<webln>
+	<link>
+		<name>/google</name>
+		<target>http://google.com</target>
+		<redirect>true</redirect>
+	</link>
+	
+	<link>
+		<name>/hello</name>
+		<target>/index.jsp</target>
+	</link>
+</webln>
